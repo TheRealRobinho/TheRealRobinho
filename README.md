@@ -1,16 +1,34 @@
-### Hi there 👋
+# Robson Diego :sunglasses:
 
-<!--
-**TheRealRobinho/TheRealRobinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##About
 
-Here are some ideas to get you started:
+:rocket: Graduated in systems development at ETEC Fernando Prestes <br>
+:house_with_garden: Living in Sorocaba-SP <br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##I have knowledge about
+
+* HTML
+* CSS
+* JavaScript
+* Frameworks(Bootstrap)
+
+##Now Studying
+
+:computer: JavaScript <br>
+:computer: VueJS <br>
+
+##Contact
+
+ <a href="https://www.linkedin.com/in/robsondiegoandrade/">
+        <img 
+            alt="Linkedin" 
+            src="	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+   </a>
+  <a href="mailto:robindiegoa@gmail.com">
+        <img 
+            alt="Gmail" 
+            src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+   </a>
+
+
+
