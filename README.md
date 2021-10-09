@@ -11,12 +11,13 @@
 * HTML
 * CSS
 * JavaScript
-* Frameworks(Bootstrap)
+* Bootstrap
+* API's
 
 ## Now Studying
 
 :computer: JavaScript <br>
-:computer: VueJS <br>
+:computer: ReactJS <br>
 
 ## Contact
 
