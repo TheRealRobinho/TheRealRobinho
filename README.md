@@ -1,4 +1,4 @@
-# Robson Diego :sunglasses:
+# Olá sou Robson Diego :sunglasses:
 
 ## About
 
@@ -8,7 +8,7 @@
 
 ## I have knowledge about
 
-* HTML
+[https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white]
 * CSS
 * JavaScript
 * Bootstrap
