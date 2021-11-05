@@ -6,7 +6,7 @@
 :house_with_garden: Living in Sorocaba-SP <br>
 :grin: 18y <br>
 
-![Robson Github Stats](https://github-readme-stats.vercel.app/api?username={TheRealRobinho}&theme=blue-green)
+![Robson Github Stats](https://github-readme-stats.vercel.app/api?username=TheRealRobinho&theme=blue-green)
 
 ## I have knowledge about
 
@@ -23,7 +23,7 @@
             alt="Bootstrap" 
             src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 
-![Robson most usage languages](https://github-readme-stats.vercel.app/api/top-langs/?username={TheRealRobinho}&theme=blue-green)
+![Robson most usage languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheRealRobinho&theme=blue-green)
 
 
 ## Now Studying
