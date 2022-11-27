@@ -3,8 +3,9 @@
 ## About
 
 :rocket: Graduated in systems development at ETEC Fernando Prestes <br>
+:mortar_board: Studying systems analysis and development<br>
 :house_with_garden: Living in Sorocaba-SP <br>
-:grin: 18y <br>
+:grin: 19y <br>
 
 ![Robson Github Stats](https://github-readme-stats.vercel.app/api?username=TheRealRobinho&theme=blue-green)
 
@@ -21,7 +22,10 @@
             src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
  <img
             alt="Bootstrap" 
-            src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+            src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">           
+ <img
+            alt="Python" 
+            src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 
 ![Robson most usage languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheRealRobinho&theme=blue-green)
 
