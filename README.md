@@ -44,6 +44,10 @@
             alt="SASS" 
             src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
 
+<img
+            alt="TypeScript" 
+            src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+
 ## Contact
 
  <a href="https://www.linkedin.com/in/robsondiegoandrade/">
