@@ -3,9 +3,9 @@
 ## About
 
 :rocket: Graduated in systems development at ETEC Fernando Prestes <br>
-:mortar_board: Studying systems analysis and development<br>
+:mortar_board: Studying systems analysis and development at Universidade de Sorocaba<br>
 :house_with_garden: Living in Sorocaba-SP <br>
-:grin: 19y <br>
+:grin: 20y <br>
 
 ![Robson Github Stats](https://github-readme-stats.vercel.app/api?username=TheRealRobinho&theme=blue-green)
 
