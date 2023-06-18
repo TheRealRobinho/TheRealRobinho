@@ -7,7 +7,7 @@
 :house_with_garden: Living in Sorocaba-SP <br>
 :grin: 20y <br>
 
-![Robson Github Stats](https://github-readme-stats.vercel.app/api?username=TheRealRobinho&theme=blue-green)
+![Robson Github Stats](https://github-readme-stats.vercel.app/api?username=TheRealsz&theme=blue-green)
 
 ## I have knowledge about
 
@@ -27,7 +27,7 @@
             alt="Python" 
             src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 
-![Robson most usage languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheRealRobinho&theme=blue-green)
+![Robson most usage languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheRealsz&theme=blue-green)
 
 
 ## Now Studying
