@@ -35,6 +35,9 @@
  <img
             alt="TypeScript" 
             src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+ <img
+            alt="MySQL" 
+            src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 
 
 ![Robson most usage languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheRealsz&theme=blue-green)
