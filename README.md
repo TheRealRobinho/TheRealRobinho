@@ -25,7 +25,17 @@
             src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">           
  <img
             alt="Python" 
-            src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+            src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">          
+<img
+            alt="SASS" 
+            src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
+<img
+            alt="ReactJS" 
+            src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">    
+<img
+            alt="TypeScript" 
+            src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+
 
 ![Robson most usage languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheRealsz&theme=blue-green)
 
@@ -41,12 +51,11 @@
             src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">            
 
 <img
-            alt="SASS" 
-            src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
-
-<img
             alt="TypeScript" 
             src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+<img
+            alt="Tailwind CSS" 
+            src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
 
 ## Contact
 
