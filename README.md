@@ -6,6 +6,7 @@
 :mortar_board: Studying systems analysis and development at Universidade de Sorocaba<br>
 :house_with_garden: Living in Sorocaba-SP <br>
 :grin: 20y <br>
+:man_technologist: Working on Web Development at Comando LOG <br>
 
 ![Robson Github Stats](https://github-readme-stats.vercel.app/api?username=TheRealsz&theme=blue-green)
 
@@ -38,6 +39,9 @@
  <img
             alt="MySQL" 
             src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+ <img
+            alt="Tailwind CSS" 
+            src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
 
 
 ![Robson most usage languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheRealsz&theme=blue-green)
@@ -55,8 +59,8 @@
             alt="TypeScript" 
             src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 <img
-            alt="Tailwind CSS" 
-            src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+            alt="Redux" 
+            src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
 
 ## Contact
 
