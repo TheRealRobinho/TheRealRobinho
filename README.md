@@ -5,7 +5,7 @@
 :rocket: Graduated in systems development at ETEC Fernando Prestes <br>
 :mortar_board: Studying systems analysis and development at Universidade de Sorocaba<br>
 :house_with_garden: Living in Sorocaba-SP <br>
-:man_technologist: Working on Web Development at Comando LOG <br>
+:man_technologist: Working on Front-End Development at Comando LOG <br>
 :grin: 20y <br>
 
 ![Robson Github Stats](https://github-readme-stats.vercel.app/api?username=TheRealsz&theme=blue-green)
