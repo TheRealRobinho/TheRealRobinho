@@ -5,7 +5,7 @@
 :rocket: Graduated in systems development at ETEC Fernando Prestes <br>
 :mortar_board: Studying systems analysis and development at Universidade de Sorocaba<br>
 :house_with_garden: Living in Sorocaba-SP <br>
-:man_technologist: Working on Front-End Development at Comando LOG <br>
+:man_technologist: Working on Front-End Development at LionSoft <br>
 :grin: 20y <br>
 
 ![Robson Github Stats](https://github-readme-stats.vercel.app/api?username=TheRealsz&theme=blue-green)
@@ -42,6 +42,9 @@
  <img
             alt="Tailwind CSS" 
             src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+ <img
+            alt="Redux" 
+            src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
 
 
 ![Robson most usage languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheRealsz&theme=blue-green)
@@ -59,8 +62,14 @@
             alt="TypeScript" 
             src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 <img
-            alt="Redux" 
-            src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
+            alt="MongoDB" 
+            src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+<img
+            alt="MUI" 
+            src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white">
+<img
+            alt="NodeJS" 
+            src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
 
 ## Contact
 
