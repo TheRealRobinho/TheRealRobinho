@@ -70,6 +70,12 @@
 <img
             alt="NodeJS" 
             src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+<img
+            alt="NextJS" 
+            src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
+<img
+            alt="Styled-components" 
+            src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
 
 ## Contact
 
