@@ -1,4 +1,4 @@
-# Olá sou Robson Diego :sunglasses:
+# Hi, I'm Robson Diego :sunglasses:
 
 ## About
 
@@ -12,7 +12,7 @@
 
 ## I have knowledge about
 
-  <img
+ <img
             alt="HTML" 
             src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
  <img
@@ -25,8 +25,8 @@
             alt="Bootstrap" 
             src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">    
  <img
-            alt="Python" 
-            src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+            alt="NextJS" 
+            src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
  <img
             alt="SASS" 
             src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
@@ -45,6 +45,12 @@
  <img
             alt="Redux" 
             src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
+  <img
+            alt="Styled-components" 
+            src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
+  <img
+            alt="Git" 
+            src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
 
 
 ![Robson most usage languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheRealsz&theme=blue-green)
@@ -65,17 +71,12 @@
             alt="MongoDB" 
             src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
 <img
-            alt="MUI" 
-            src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white">
-<img
             alt="NodeJS" 
             src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
 <img
             alt="NextJS" 
             src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
-<img
-            alt="Styled-components" 
-            src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
+
 
 ## Contact
 
