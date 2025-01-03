@@ -3,7 +3,7 @@
 ## About
 
 :rocket: Graduated in systems development at ETEC Fernando Prestes <br>
-:mortar_board: Studying systems analysis and development at Universidade de Sorocaba<br>
+:mortar_board: Graduated in systems analysis and development at Universidade de Sorocaba<br>
 :house_with_garden: Living in Sorocaba-SP <br>
 :man_technologist: Working on Front-End Development at LionSoft <br>
 :grin: 21y <br>
@@ -57,6 +57,9 @@
 <img
             alt="NodeJS" 
             src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+<img
+            alt="React Native" 
+            src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 
 
 ![Robson most usage languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheRealsz&theme=blue-green)
@@ -85,7 +88,9 @@
 <img
             alt="NodeJS" 
             src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
-
+<img
+            alt="React Native" 
+            src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 
 ## Contact
 
@@ -94,7 +99,7 @@
             alt="Linkedin" 
             src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
    </a>
-  <a href="mailto:Robsondiegoandrade@outlook.com">
+  <a href="mailto:robsondiegoandrade@outlook.com">
         <img 
             alt="Outlook" 
             src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
